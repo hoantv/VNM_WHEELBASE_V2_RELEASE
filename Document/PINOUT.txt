@@ -1,0 +1,17 @@
+1. MCP4922:
+DAC_CS_PORT  		PC11
+DAC_LATCH_PORT 	 	PA15
+DAC_MOSI  	 	PC12
+DAC SCK 	 	PC10
+
+2. PEDAL/handbrake: PA6,PC4, PA7,PC4
+
+3. XY Shifter: PB0, PB1
+
+4. Matrix Button 5x5:
+  - columns: PD2,PD3,PD4,PD5,PD6
+  - rows: PB8,PB9, PE0,PE1,PE2
+
+5. PROHIBIT_PIN (set 1 when program run): PB2
+6. MOTOR_DIR_PIN: PE7
+7. PWM: PE9, PE11
