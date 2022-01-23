@@ -4,7 +4,7 @@ DAC_LATCH_PORT 	 	PA15
 DAC_MOSI  	 	PC12
 DAC SCK 	 	PC10
 
-2. PEDAL/handbrake: PA6,PC4, PA7,PC4
+2. Throttle, brake, clutch, handbrake: PA6,PC4, PA7,PC5 ~ RX,RY,RZ,Z 
 
 3. XY Shifter: PB0, PB1
 
@@ -15,3 +15,4 @@ DAC SCK 	 	PC10
 5. PROHIBIT_PIN (set 1 when program run): PB2
 6. MOTOR_DIR_PIN: PE7
 7. PWM: PE9, PE11
+8. Encoder: A,B,Z ~ PA0,PA1, PA2
