@@ -1,2 +1,5 @@
+2.0.3.2
+ - Fix Z calibration
+ - add shifter buttons
 2.0.3.0
  - Add hpattern shifter
